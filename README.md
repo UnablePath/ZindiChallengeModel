@@ -1,0 +1,2 @@
+# ZindiChallengeModel
+Goal: In Progress
